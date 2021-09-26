@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Profi
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Programing
+- 📫 How to reach me Discord: Profi#9291
 
 <!---
 TheArexH4CKER/TheArexH4CKER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
